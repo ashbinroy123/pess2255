@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+nav
+{
+    margin-top: 0px;
+    background-color: chartreuse;
+}
+a{
+    color: darkblue;
+    word-spacing: 0%;
+}
+image{
+    margin-right: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:darkblue;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+.para{
+    background-color: green;
+}
+.para2{
+    color: orange;
+}
